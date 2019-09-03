@@ -4,10 +4,8 @@ Made by: Coen van Diepen
 
 Class: 3GDB
 
-Description: I made a minesweeper which can change the amount of dimentions at start. I didn't make the UI yet.
+Description: This minesweeper can change the amount of dimentions at start they're set to 4 dimentions by default and i don't have an UI to change it.
 
 Controls: left click to reveal the tile, right click to flag / unflag the tile.
 
-[Playable game](http://21886.hosts.ma-cloud.nl/portfolio/X-D_Minesweeper/)
-
-[Portfolio page](http://21886.hosts.ma-cloud.nl/portfolio/)
+[Playable game](http://coenvandiepen.com/X-D_Minesweeper/)
